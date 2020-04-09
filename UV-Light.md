@@ -11,6 +11,8 @@ The values of the index range from zero upward - the higher the UVI, the greater
 The UVI is an important vehicle to alert people about the need to use sun protection.
 A marked increase in the incidence of skin cancer in fair-skinned populations worldwide is strongly associated with excessive UV radiation exposure from the sun and possibly artificial sources such as sunbeds. Current evidence indicates that personal habits in relation to sun exposure constitute the most important individual risk factor for UV radiation damage.
 
+![https://www.who.int/uv/intersunprogramme/activities/en/uvcodes.jpg](URL "UVI Index")
+
 [https://www.genengnews.com/topics/translational-medicine/uv-light-that-is-safe-for-humans-but-bad-for-bacteria-and-viruses/](URL "UV Light That Is Safe for Humans but Bad for Bacteria and Viruses")
 
 > Scientists have known for decades that broad-spectrum UVC light, which has a wavelength of between 200 to 400 nanometers (nm), is highly effective at killing bacteria and viruses by destroying the molecular bonds that hold their DNA together. This conventional UV light is routinely used to decontaminate surgical equipment.

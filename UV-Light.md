@@ -13,6 +13,12 @@ A marked increase in the incidence of skin cancer in fair-skinned populations wo
 
 ![UVI](https://www.who.int/uv/intersunprogramme/activities/en/uvcodes.jpg)
 
+[KILLING GERMS WITH LEDS](https://materion.com/resource-center/newsletters/materials-news-stats-and-chats/killing-germs-with-leds)
+
+> What is unique about UV-C radiation is that it is especially effective at disinfection. In particular, the wavelength of 264 nm is incredibly impressive at killing germs, viruses and bacteria. Fortunately, UV-C radiation can pass through air without creating ozone, so UV-C lamps can be used in air to disinfect surfaces. Some people may be concerned that using a UV-C LED lamp will create ozone (a health and environmental hazard).   However, only the vacuum-LED wavelengths can create ozone (<200 nm). UV-A, UV-B and UV-C wavelengths do not transform oxygen (in air) into ozone.
+
+![UV in the Electromagnetic Spectrum](https://materion.com/-/media/images/business-units/advanced-materials-group/me/newsletter-images-2016_targeted-emails/uv-in-electromagnetic-spectrum_600.jpg?la=en&hash=A30103FD712FBA4B4D055B82197580FC)
+
 [UV Light That Is Safe for Humans but Bad for Bacteria and Viruses](https://www.genengnews.com/topics/translational-medicine/uv-light-that-is-safe-for-humans-but-bad-for-bacteria-and-viruses/)
 
 > Scientists have known for decades that broad-spectrum UVC light, which has a wavelength of between 200 to 400 nanometers (nm), is highly effective at killing bacteria and viruses by destroying the molecular bonds that hold their DNA together. This conventional UV light is routinely used to decontaminate surgical equipment.

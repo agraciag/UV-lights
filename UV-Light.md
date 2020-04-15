@@ -33,7 +33,7 @@ A marked increase in the incidence of skin cancer in fair-skinned populations wo
 
 > Fuente: LEDinside
 
-** Se informa que la Universidad de Kobe en Japón y Ushio, un fabricante japonés de componentes LED, han descubierto que la radiación ultravioleta profunda con una longitud de onda de 222 nm es inofensiva para la piel y los ojos humanos. **
+** Se informa que la Universidad de Kobe en Japón y Ushio, un fabricante japonés de componentes LED, han descubierto que la radiación ultravioleta profunda con una longitud de onda de 222 nm es inofensiva para la piel y los ojos humanos.
 
 ![Germicide Lamp safe for human application](http://www.siscmag.com/upload/202004/14/202004141333273138.jpg)
 

@@ -24,3 +24,7 @@ A marked increase in the incidence of skin cancer in fair-skinned populations wo
 > Scientists have known for decades that broad-spectrum UVC light, which has a wavelength of between 200 to 400 nanometers (nm), is highly effective at killing bacteria and viruses by destroying the molecular bonds that hold their DNA together. This conventional UV light is routinely used to decontaminate surgical equipment.
 
 > far-UVC could kill microbes without damaging healthy tissue. Moreover, the researchers demonstrated that far-UVC light was effective at killing MRSA (methicillin-resistant Staphylococcus aureus) bacteria, a common cause of surgical wound infections, but without harming human or mouse skin.
+
+New Generation of Exhibit
+
+![Exhibit](https://images.squarespace-cdn.com/content/v1/53b5d2a1e4b0f56649f6112a/1585859311441-834757DKHPBR2WU73U1F/ke17ZwdGBToddI8pDm48kDep9qb9-272I3GphUMymZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mC7VQwPzsd1MRVdmB3-kIH_DCvRn5vcaj_pubFDG151y_hbKz61-xfeiJ18wuDJAg/Sanitize+-+LR+Design%2BBuild+-+Science+Kinetics.png?format=1500w)

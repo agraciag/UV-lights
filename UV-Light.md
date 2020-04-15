@@ -25,6 +25,18 @@ A marked increase in the incidence of skin cancer in fair-skinned populations wo
 
 > far-UVC could kill microbes without damaging healthy tissue. Moreover, the researchers demonstrated that far-UVC light was effective at killing MRSA (methicillin-resistant Staphylococcus aureus) bacteria, a common cause of surgical wound infections, but without harming human or mouse skin.
 
+[USHIO "222 nm UV-C](https://www.ushio.co.jp/en/)
+[Soluciones de esterilización de interiores automotrices](http://www.siscmag.com/news/show-3209.html)
+> El esterilizador ultravioleta en el vehículo de Yanfeng utiliza tecnología violeta, que puede detectar con seguridad si hay personas en el automóvil y luego puede desinfectar la cabina, los asientos y el volante en 10 minutos. El módulo de esterilización se instala en la parte superior del automóvil para maximizar la cobertura del área de esterilización efectiva y puede lograr una tasa de esterilización del 99.9% de las bacterias y virus dañinos en el automóvil.
+
+> La radiación ultravioleta profunda de 222 nm es inofensiva para la piel y los ojos humanos
+
+> Fuente: LEDinside
+
+** Se informa que la Universidad de Kobe en Japón y Ushio, un fabricante japonés de componentes LED, han descubierto que la radiación ultravioleta profunda con una longitud de onda de 222 nm es inofensiva para la piel y los ojos humanos. **
+
+![Germicide Lamp safe for human application](http://www.siscmag.com/upload/202004/14/202004141333273138.jpg)
+
 [New Generation of Exhibit](https://www.lrdesignbuild.com/blog/2020/4/2/sanitize-help-stop-the-spread-of-viruses-and-germs)
 
 > Our exhibit is based around a touch based app that we developed with Left Brain Games.  Next to the app we have added a station with hand sanitizer dispensers, sanitizing wipes and a place to dispose of the used wipes.

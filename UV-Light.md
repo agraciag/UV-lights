@@ -29,13 +29,18 @@ A marked increase in the incidence of skin cancer in fair-skinned populations wo
 [Soluciones de esterilización de interiores automotrices](http://www.siscmag.com/news/show-3209.html)
 > El esterilizador ultravioleta en el vehículo de Yanfeng utiliza tecnología violeta, que puede detectar con seguridad si hay personas en el automóvil y luego puede desinfectar la cabina, los asientos y el volante en 10 minutos. El módulo de esterilización se instala en la parte superior del automóvil para maximizar la cobertura del área de esterilización efectiva y puede lograr una tasa de esterilización del 99.9% de las bacterias y virus dañinos en el automóvil.
 
-> La radiación ultravioleta profunda de 222 nm es inofensiva para la piel y los ojos humanos
-
-> Fuente: LEDinside
+> La radiación ultravioleta profunda de 222 nm es inofensiva para la piel y los ojos humanos Fuente: LEDinside
 
 ## Se informa que la Universidad de Kobe en Japón y Ushio, un fabricante japonés de componentes LED, han descubierto que la radiación ultravioleta profunda con una longitud de onda de 222 nm es inofensiva para la piel y los ojos humanos.
+[Kobe University and Ushio Find 222nm UVC Radiation Safe for Human Skin](https://www.ledinside.com/news/2020/4/222nm_uvc_harmless)
+
 
 ![Germicide Lamp safe for human application](http://www.siscmag.com/upload/202004/14/202004141333273138.jpg)
+
+[REFERENCIA DE ENERGIA NECESARIA PARA DESACTIVAR BACTERIA Y VIRUS] (https://www.ledinside.com/news/2020/4/uvcled_microwave)
+> Researchers built a microwave-like equipment which include two separate UVC LED modules with 10 UVC LEDs embedded respectively. Each UVC LED has a power of 100 mW, making the total UVC radiation 2W and achieving a **radiation dose of 800 J / m²** in just a few seconds. The amount of radiation dose can effectively inactivate bacteria and viruses.
+
+[Seoul Viosys and SETi’s Violeds Technology Proves 99.9% Sterilization of Coronavirus (COVID-19) in 30 Seconds](https://www.ledinside.com/news/2020/4/uvled_seoulviosys_seti)
 
 [New Generation of Exhibit](https://www.lrdesignbuild.com/blog/2020/4/2/sanitize-help-stop-the-spread-of-viruses-and-germs)
 

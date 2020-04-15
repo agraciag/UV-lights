@@ -33,6 +33,8 @@ A marked increase in the incidence of skin cancer in fair-skinned populations wo
 
 ## Se informa que la Universidad de Kobe en Japón y Ushio, un fabricante japonés de componentes LED, han descubierto que la radiación ultravioleta profunda con una longitud de onda de 222 nm es inofensiva para la piel y los ojos humanos.
 [Kobe University and Ushio Find 222nm UVC Radiation Safe for Human Skin](https://www.ledinside.com/news/2020/4/222nm_uvc_harmless)
+
+
 [Long‐term effects of 222 nm ultraviolet radiation C sterilizing lamps on mice susceptible to ultraviolet radiation](https://onlinelibrary.wiley.com/doi/abs/10.1111/php.13269)
 
 

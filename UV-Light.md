@@ -1,4 +1,4 @@
-[UV-C Examples](https://www.theverge.com/2020/5/4/21246491/nyc-mta-ultraviolet-light-uvc-subway-bus-coronavirus)
+[NYC will use powerful ultraviolet lamps to kill the coronavirus on subways and buses](https://www.theverge.com/2020/5/4/21246491/nyc-mta-ultraviolet-light-uvc-subway-bus-coronavirus)
 > New York City’s Metropolitan Transportation Authority, which is dealing with record-low ridership on subways and buses, is trying to shed some light on its coronavirus problem.
 
 [OMS](https://www.who.int/uv/uv_and_health/en/ "Ultraviolet radiation and health")

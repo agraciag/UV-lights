@@ -1,3 +1,29 @@
+[CIE POSITION STATEMENT ON THE USE OF ULTRAVIOLET (UV) RADIATION TO MANAGE THE RISK OF COVID-19 TRANSMISSION](http://cie.co.at/publications/cie-position-statement-use-ultraviolet-uv-radiation-manage-risk-covid-19-transmission)
+
+> Applying GUV for disinfection
+UV-C has been used successfully for water disinfection for many years. Moreover, UV-C disinfection is routinely incorporated into air handling units to manage the build-up of biofilms and to disinfect air (CIE, 2003).
+
+[CIE REPORT ULTRAVIOLET AIR DISINFECTION](http://files.cie.co.at/cie155-2003%20(free%20copy%20March%202020).pdf)
+
+> 9. CONCLUSIONS AND RECOMMENDATIONS
+Public safety and health concerns have brought a renewed interest in updating UVGI
+application information with studies of efficacy, definitive testing for required UV dose to kill
+infectious microorganisms, dosimetry, personal UV monitors, standardized methods of testing
+UVGI systems and components (lamps, fixtures and ballasts), and development of design
+guidelines and computer programs for application in high-risk settings. Several CIE
+committees are developing input which will contribute to this body of knowledge. Work is
+currently underway to determine real world efficacy of UV through an epidemiological study,
+which aims to develop a state-of-the-art UV air disinfection model. 
+
+[CIE REPORT UV-C PHOTOCARCINOGENESIS RISKS FROM GERMICIDAL LAMPS](http://files.cie.co.at/cie187-2010%20(free%20copy%20March%202020).pdf)
+
+> 4 CONCLUSIONS AND RECOMMENDATIONS FOR FUTURE RESEARCH
+Calculated estimates of NMSC risk show limited risk from the potential exposure from
+properly installed UV-C lamps and lamp systems where routine exposure remains below the
+applicable TLV. 
+
+![OMS Ultra-violet (UV) lamps should not be used to disinfect hands or other areas of your skin](https://web-prod.who.int/images/default-source/health-topics/coronavirus/myth-busters/mb---uv-light-edited.png)
+
 [NYC will use powerful ultraviolet lamps to kill the coronavirus on subways and buses](https://www.theverge.com/2020/5/4/21246491/nyc-mta-ultraviolet-light-uvc-subway-bus-coronavirus)
 > New York City’s Metropolitan Transportation Authority, which is dealing with record-low ridership on subways and buses, is trying to shed some light on its coronavirus problem.
 

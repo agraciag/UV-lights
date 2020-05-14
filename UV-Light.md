@@ -1,3 +1,14 @@
+[ICNIRP GUIDELINES ON LIMITS OF EXPOSURE TO UV RADIATION](https://www.icnirp.org/cms/upload/publications/ICNIRPUV2004.pdf)
+
+> CONCLUDING REMARKS
+Greater attention should be paid to the potential hazards of UVR exposure. The increasing socially driven solar exposure as well as the increasing use of artificial UVR sources is a cause for concern.
+
+[CIE PHOTOBIOLOGICAL SAFETY OF LAMPS](http://cie.co.at/publications/photobiological-safety-lamps-and-lamp-systems-s-curit-photobiologique-des-lampes-et-des)
+
+> Finally, there are well known optical radiation hazards associated with some lamps and lamp systems. The purpose of this standard is to provide a standardized technique for evaluation of potential radiation hazards that may be associated with various lamps and lamp systems.
+
+This Standard has been approved by CIE and IEC as a Dual IEC/CIE Logo Standard.
+
 [CIE POSITION STATEMENT ON THE USE OF ULTRAVIOLET (UV) RADIATION TO MANAGE THE RISK OF COVID-19 TRANSMISSION](http://cie.co.at/publications/cie-position-statement-use-ultraviolet-uv-radiation-manage-risk-covid-19-transmission)
 
 > Applying GUV for disinfection

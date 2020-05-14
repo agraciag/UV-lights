@@ -22,7 +22,7 @@ Calculated estimates of NMSC risk show limited risk from the potential exposure 
 properly installed UV-C lamps and lamp systems where routine exposure remains below the
 applicable TLV. 
 
-![OMS Ultra-violet (UV) lamps should not be used to disinfect hands or other areas of your skin](https://web-prod.who.int/images/default-source/health-topics/coronavirus/myth-busters/mb---uv-light-edited.png)
+![OMS Ultra-violet (UV) lamps should not be used to disinfect hands or other areas of your skin](https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mb---uv-light-edited.png?sfvrsn=14c7467d_2)
 
 [NYC will use powerful ultraviolet lamps to kill the coronavirus on subways and buses](https://www.theverge.com/2020/5/4/21246491/nyc-mta-ultraviolet-light-uvc-subway-bus-coronavirus)
 > New York City’s Metropolitan Transportation Authority, which is dealing with record-low ridership on subways and buses, is trying to shed some light on its coronavirus problem.

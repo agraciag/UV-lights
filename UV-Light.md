@@ -1,3 +1,7 @@
+[El Ejército trabaja en implementar un robot con capacidad superior germicida contra el COVID-19](https://ejercito.defensa.gob.es/actualidad/2020/05/7959-proyecto-atila.html)
+
+> Con el estallido de la pandemia por COVID-19, el Ejército de Tierra ha acelerado la implementación de un robot EOD con capacidad superior germicida, que se empezará a probar a lo largo de esta semana, en una operación real, en el Centro de Comunicaciones de Naciones Unidas en Manises (Valencia).
+
 [ICNIRP GUIDELINES ON LIMITS OF EXPOSURE TO UV RADIATION](https://www.icnirp.org/cms/upload/publications/ICNIRPUV2004.pdf)
 
 > CONCLUDING REMARKS

@@ -2,6 +2,8 @@
 
 > Como vamos a analizar seguidamente, entenderemos que la utilización del sistema germicida de radiación de Luz Ultravioleta no reemplaza a las etapas de filtrado de alta eficiencia, en todo caso necesita de éstas para rendir en su máxima eficiencia. Para que una lámpara de Luz Ultravioleta pueda irradiar su mayor energía, es necesario que la superficie del vidrio que la contiene se mantenga siempre limpia y libre de minúsculas partículas de polvo que puedan apaciguar la emisión y el efecto germicida de las ondas electromagnéticas UV.
 
+![Unidades de Tratamiento de Aire UTA](http://www.ingeniarg.com/blog/images/blog/17-11-2015/Insertadas/Nota13/accion-germicida.jpg)
+
 [Desinfección continua: Conozca el nuevo método para prevenir infecciones](https://www.gecurrent.com/ideas/la-es/desinfeccion-continua-conozca-el-nuevo-metodo-para-prevenir-infecciones?mkt_tok=eyJpIjoiTlRsa1pUbGlaamN5WXpSaCIsInQiOiJRYnowVmpzXC95bzd6ZDQraG1pMmV1amRZZlJWYnR2T1Y0QVlheEJvSU5oeWFyeStVb2dOQ01WS080QUJadEd4RE9CSlBrdUtIbmVPdmkyRjNYU1ZMUlQweDhSQkRJVWF3Rm1mTFwvZ01HWFwvVklCbURJYnJ5ZnhQSEw5S0xKeEFWeiJ9)
 
 > La producción artificial de UVA reduce los riesgos de infección, pues su intensidad y duración, meticulosamente calibradas, destruyen diferentes agentes patógenos sin afectar la salud humana, permitiendo la desinfección continua de los espacios. Un estudio realizado en el 2018 por la Sociedad Americana de Epidemiología muestra la efectividad de la luz UVA contra el E. coli y la SARM, conocidas por ser la segunda y cuarta causa más común de IAAS, eliminándolos hasta en un 90%.

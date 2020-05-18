@@ -1,3 +1,7 @@
+[Desinfección continua: Conozca el nuevo método para prevenir infecciones](https://www.gecurrent.com/ideas/la-es/desinfeccion-continua-conozca-el-nuevo-metodo-para-prevenir-infecciones?mkt_tok=eyJpIjoiTlRsa1pUbGlaamN5WXpSaCIsInQiOiJRYnowVmpzXC95bzd6ZDQraG1pMmV1amRZZlJWYnR2T1Y0QVlheEJvSU5oeWFyeStVb2dOQ01WS080QUJadEd4RE9CSlBrdUtIbmVPdmkyRjNYU1ZMUlQweDhSQkRJVWF3Rm1mTFwvZ01HWFwvVklCbURJYnJ5ZnhQSEw5S0xKeEFWeiJ9)
+
+> La producción artificial de UVA reduce los riesgos de infección, pues su intensidad y duración, meticulosamente calibradas, destruyen diferentes agentes patógenos sin afectar la salud humana, permitiendo la desinfección continua de los espacios. Un estudio realizado en el 2018 por la Sociedad Americana de Epidemiología muestra la efectividad de la luz UVA contra el E. coli y la SARM, conocidas por ser la segunda y cuarta causa más común de IAAS, eliminándolos hasta en un 90%.
+
 [El Ejército trabaja en implementar un robot con capacidad superior germicida contra el COVID-19](https://ejercito.defensa.gob.es/actualidad/2020/05/7959-proyecto-atila.html)
 
 > Con el estallido de la pandemia por COVID-19, el Ejército de Tierra ha acelerado la implementación de un robot EOD con capacidad superior germicida, que se empezará a probar a lo largo de esta semana, en una operación real, en el Centro de Comunicaciones de Naciones Unidas en Manises (Valencia).

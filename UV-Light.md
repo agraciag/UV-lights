@@ -2,7 +2,7 @@
 
 > Waterstones is preparing to put books into quarantine after they have been handled by browsing shoppers as part of plans to reopen its stores when allowed.
 
-The bookseller intends to ask shoppers to set aside any book they touch on trolleys which will be wheeled away into storage for at least 72 hours before being put back on shelves in an effort to protect customers from the spread of coronavirus, in a move first reported by consumer writer Harry Wallop.
+> The bookseller intends to ask shoppers to set aside any book they touch on trolleys which will be wheeled away into storage for at least 72 hours before being put back on shelves in an effort to protect customers from the spread of coronavirus, in a move first reported by consumer writer Harry Wallop.
 
 [La función de las lámparas UV-C como germicida en instalaciones de HVAC](http://www.ingeniarg.com/blog/24-la-funcion-de-las-lamparas-uv-c-como-germicida-en-instalaciones-de-hvac)
 

@@ -1,3 +1,9 @@
+[Waterstones plans to put its books under a 72-hour quarantine](https://www.theguardian.com/books/2020/may/18/waterstones-plans-to-put-its-books-under-a-72-hour-quarantine?CMP=Share_iOSApp_Other)
+
+> Waterstones is preparing to put books into quarantine after they have been handled by browsing shoppers as part of plans to reopen its stores when allowed.
+
+The bookseller intends to ask shoppers to set aside any book they touch on trolleys which will be wheeled away into storage for at least 72 hours before being put back on shelves in an effort to protect customers from the spread of coronavirus, in a move first reported by consumer writer Harry Wallop.
+
 [La función de las lámparas UV-C como germicida en instalaciones de HVAC](http://www.ingeniarg.com/blog/24-la-funcion-de-las-lamparas-uv-c-como-germicida-en-instalaciones-de-hvac)
 
 > Como vamos a analizar seguidamente, entenderemos que la utilización del sistema germicida de radiación de Luz Ultravioleta no reemplaza a las etapas de filtrado de alta eficiencia, en todo caso necesita de éstas para rendir en su máxima eficiencia. Para que una lámpara de Luz Ultravioleta pueda irradiar su mayor energía, es necesario que la superficie del vidrio que la contiene se mantenga siempre limpia y libre de minúsculas partículas de polvo que puedan apaciguar la emisión y el efecto germicida de las ondas electromagnéticas UV.

@@ -1,7 +1,7 @@
 [Posición de la CIE respecto a la radiación ultravioleta (UV) para
 reducir el riesgo de transmisión del COVID-19](http://cie.co.at/files/CIE%20Position%20Statement%20-%20UV%20radiation%20(2020)_ES_0.pdf)
 
-[](<iframe width="560" height="315" src="https://www.youtube.com/embed/zYwjzjuWj0Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+https://www.youtube.com/embed/zYwjzjuWj0Q
 
 
 [Grupo Antolin trabaja para promover un ambiente saludable en el interior del vehículo](https://www.grupoantolin.com/es/grupo-antolin-trabaja-para-promover-un-ambiente-saludable-en-el-interior-del-vehiculo)
@@ -65,7 +65,7 @@ La empresa innovadora Setga, con sede en Pontevedra, es una de las firmas que es
 
 > Seal will create nanostructures that can capture the virus and then trigger a chemical reaction using ultraviolet light to destroy it. The scientists said that if successful, the coating could be added to masks, gloves and gowns, which could keep healthcare providers safer as they battle COVID-19. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8YxgUX8fz_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/8YxgUX8fz_Q
 
 
 [UVC LED Irradiation Effectively Inactivates Aerosolized Viruses, Bacteria, and Fungi in a Chamber-Type Air Disinfection System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6102977/)

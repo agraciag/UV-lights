@@ -1,3 +1,100 @@
+[Posición de la CIE respecto a la radiación ultravioleta (UV) para
+reducir el riesgo de transmisión del COVID-19](http://cie.co.at/files/CIE%20Position%20Statement%20-%20UV%20radiation%20(2020)_ES_0.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zYwjzjuWj0Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[Grupo Antolin trabaja para promover un ambiente saludable en el interior del vehículo](https://www.grupoantolin.com/es/grupo-antolin-trabaja-para-promover-un-ambiente-saludable-en-el-interior-del-vehiculo)
+
+![](https://www.grupoantolin.com/sites/default/files/styles/noticias_detalle/public/consola_800x600.jpg?itok=7JInWJ-o)
+
+> A tal fin, recurrimos a sistemas mixtos que combinan el filtrado de aire con sistemas de esterilización de las superficies, analizando en cada caso la solución óptima: esterilización con radiación ultravioleta, superficies activas foto-catalíticas, adsorción de fases volátiles y gaseosas, purificación a través de ionización u ozonización…
+
+
+[La Conselleria de Innovación elige un proyecto del Instituto ai2 para luchar contra el COVID-19](https://www.ai2.upv.es/la-conselleria-de-innovacion-elige-un-proyecto-del-instituto-ai2-para-luchar-contra-el-covid-19/)
+
+> El robot permite la desinfección total del lugar en el que trabaja, con el 100% de gérmenes eliminados en un radio de 2m, siempre donde la luz incida directamente. Al no entrar en contacto con elementos contaminados, no existe peligro de contaminación cruzada. Y, al no requerir químicos, evita olores indeseables o sustancias nocivas.
+
+![](https://www.ai2.upv.es/wp-content/uploads/2020/05/int_desinfeccion-300x350.jpg)
+
+
+[Les UV-C au secours de la pandémie](http://www.syndicat-eclairage.com/wp-content/uploads/2020/05/SyndEclairage-Communiqu%C3%A9-les-UV-au-secours-de-la-pand%C3%A9mie-print.pdf)
+
+> Les UV-C sont un outil de lutte contre la pandémie du coronavirus Covid-19
+La longueur d’onde de 254 nm est donc la plus efficace pour endommager l’ADN d’un virus, y compris le
+coronavirus Covid-19. Concrètement, cela signifie que les installations UV-C existantes sont utilisées pour
+désinfecter des espaces, stériliser des instruments, des outils ou des masques. Devant l’ampleur de la crise
+sanitaire, nous voyons aujourd’hui ce type d’installation se multiplier. Du point de vue sanitaire c’est une
+bonne nouvelle car les UV-C vont participer à la lutte contre le Covid-19. Néanmoins, le rôle du Syndicat de
+l’éclairage est de rappeler que cette technologie doit être employée avec précautions.
+
+[T-Systems crea TASK ](https://www.t-systems.com/es/es/about-t-systems/news/press/task-suite-de-soluciones-ia-iot-blockchain-136110)
+
+> TASK, la suite de soluciones tecnológicas para la vuelta a la oficina tras la crisis sanitaria, permite conocer el uso de las zonas comunes, avisar al móvil a empleados y visitantes cuando no se cumpla la distancia de seguridad, o establecer grupos de riesgo entre los empleados para la implantación de protocolos específicos de seguridad y salud
+
+![](https://www.t-systems.com/resource/image/136104/ratio3x2/1000/667/dc382c90c5ba9478b3a1a95fa06640e7/zz/im-app.png)
+
+[La Agencia Gallega de Innovación cofinancia las cabinas esterilizadoras de Setga](https://www.esmartcity.es/2020/05/21/agencia-gallega-innovacion-cofinancia-proyecto-cabinas-esterilizadoras-setga)
+
+> Cabinas esterilizadoras
+La empresa innovadora Setga, con sede en Pontevedra, es una de las firmas que están trabajando en soluciones tecnológicas contra el COVID-19, con la cofinanciación de la Agencia Gallega de Innovación.
+
+![](https://static.esmartcity.es/media/2020/05/setga-cabina-esterilizadora.png)
+
+[COVID-19 Cleaning and Disinfecting Guidance for Electrical Equipment](https://www.nema.org/Standards/Pages/COVID-19-Cleaning-and-Disinfecting-Guidance-for-Electrical-Equipment.aspx)
+
+> Guidance document reflects the responses of electrical manufacturers to some common questions related to cleaning and disinfecting electrical equipment. 
+
+
+[COVID-19 Sterilizing Violeds Technology Succeed in Perfect Clean Washing with Removing Odors and Sterilizing ](http://www.seoulviosys.com/en/company/press/press-release/?idx=358)
+
+![Laundry](http://www.seoulviosys.com/upload/seditor/[Photo]%20SVC_Violeds.png)
+
+> ANSAN, South Korea – Seoul Viosys(KOSDAQ: 092190), the world’s first compound semiconductor for short wavelength solutions provider, announced that products with Violeds technology for perfectly clean laundry have been mass-produced and supplied to both Chinese two major makers, Hisense and Haier, which lead household washing machine products.
+
+[KONE propone soluciones innovadoras para una desescalada segura en los edificios](https://canelapr.com/es/kone-propone-soluciones-innovadoras-para-una-desescalada-segura-en-los-edificios/)
+
+[Destrucción de contaminantes orgánicos por fotocatálisis heterogénea](https://www.psa.es/es/projects/solarsafewater/documents/libro/10_Capitulo_10.pdf)
+
+[Producción fotocatalítica de H2 con microrreactores y cristales fotónicos
+](https://www.tdx.cat/bitstream/handle/10803/663160/TACR1de1%20.pdf?sequence=2&isAllowed=y)
+
+[PURIFICACIÓN DE GASES POR FOTOCATÁLISIS HETEROGÉNEA: ESTADO DEL ARTE ](https://www.psa.es/en/projects/solwater/files/CYTED01/07cap02.pdf)
+
+[UCF Scientists Seek Novel Material to Kill COVID-19](https://www.ucf.edu/news/ucf-scientists-seek-novel-material-to-kill-covid-19/)
+
+> Seal will create nanostructures that can capture the virus and then trigger a chemical reaction using ultraviolet light to destroy it. The scientists said that if successful, the coating could be added to masks, gloves and gowns, which could keep healthcare providers safer as they battle COVID-19. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8YxgUX8fz_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[UVC LED Irradiation Effectively Inactivates Aerosolized Viruses, Bacteria, and Fungi in a Chamber-Type Air Disinfection System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6102977/)
+
+> Surviving populations after UVC LED irradiation.
+Surviving populations of the three viruses, MS2, Qβ, and ϕX174, after UVC LED array irradiation and their fitting curves are presented in Fig. 1. As UV dosage increased, infectious populations of the three viruses decreased. MS2 lost its infectivity almost linearly with increased dosages, and a 4.7-log reduction was achieved at 46 mJ/cm2 of UVC LED irradiation. A similar result was obtained for Qβ at the same irradiation dosage, achieving a 4.9-log reduction, while much upward concavity developed. ϕX174 lost its infectivity at a much lower dosage of UV irradiation, as a 4-log reduction was achieved with 4.6 mJ/cm2. These viral reductions accomplished by UVC LED array irradiation were much more efficacious than in prior research studies using conventional UV lamps. For MS2, a 0.5-log reduction (70% reduction) was achieved after dosage of 2.6 mJ/cm2 using a low-pressure mercury lamp at 50% relative humidity (RH) (14). Griffiths et al. reported a 1.6-log reduction of MS2 by a heating, ventilation, and air conditioning (HVAC) system incorporating 6 UV lamps (no irradiation dose specified) (24). Also, an approximately 3-log reduction of MS2 dispersed in beef extract medium solution and artificial saliva occurred when treated with 7,200 mJ/cm2 in an air disinfection system (25).
+
+![Plotting and analysis of the surviving infectivity of nebulized MS2 (a), Qβ (b), and ϕX174 (c) after UVC LED array irradiation using the Weibull model equation.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6102977/bin/zam0171887020001.jpg)
+
+[Grupo de Trabajo CICAT](https://clusteriluminacion.org/gt-luz-ultravioleta/)
+
+> La radiación con luz UV es una tecnología muy eficaz para la desinfección de patógenos que lleva mucho tiempo aplicándose en diversos campos. Dada la importancia del buen uso de la radiación UV, el clúster CICAT ha organizado un grupo de trabajo en el que se desarrollará una guía práctica de aplicación de instalación y uso de esta tecnología.
+
+![](https://youtu.be/1hxhQIrWNG4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1hxhQIrWNG4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/1hxhQIrWNG4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[New York transit agency launches UV light pilot program in effort to kill Covid-19](https://edition.cnn.com/2020/05/20/us/new-york-transit-uv-light-trnd/index.html)
+
+> The MTA touts that UVC light is "an efficient, proven, and effective technology for eliminating viruses, including SARS-CoV-2 that causes COVID-19" and has been demonstrated to kill viruses in hospital operating rooms, urgent care clinics, universities, and fire stations.
+
+
+
+[Here’s how NYC is using powerful UV light to kill the coronavirus on subways and buses](https://www.theverge.com/2020/5/20/21265221/nyc-mta-ultraviolet-light-uvc-coronavirus-disinfect-puro-pictures)
+
+> “The UV light that will be used in the current overnight subway and bus disinfection program is very efficient in killing the virus that is responsible for COVID-19,” said David Brenner, director of Columbia University’s Center for Radiological Research, in a statement. “What we are doing here is reducing the level of the virus in subways, and therefore decreasing the risk of anybody catching COVID-19 on the subway.”
+
+![Demonstration of UV disinfecting technology at the Corona Maintenance Facility](https://cdn.vox-cdn.com/thumbor/l7wf27wNvIFC2VzColg2IEejlxw=/0x0:4874x3499/1220x813/filters:focal(2048x1361:2826x2139):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/66822576/49913415526_a35d4946a3_o.0.jpg)
+
 [Waterstones plans to put its books under a 72-hour quarantine](https://www.theguardian.com/books/2020/may/18/waterstones-plans-to-put-its-books-under-a-72-hour-quarantine?CMP=Share_iOSApp_Other)
 
 > Waterstones is preparing to put books into quarantine after they have been handled by browsing shoppers as part of plans to reopen its stores when allowed.

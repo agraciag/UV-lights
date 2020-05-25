@@ -78,9 +78,7 @@ Surviving populations of the three viruses, MS2, Qβ, and ϕX174, after UVC LED 
 
 > La radiación con luz UV es una tecnología muy eficaz para la desinfección de patógenos que lleva mucho tiempo aplicándose en diversos campos. Dada la importancia del buen uso de la radiación UV, el clúster CICAT ha organizado un grupo de trabajo en el que se desarrollará una guía práctica de aplicación de instalación y uso de esta tecnología.
 
-![](https://youtu.be/1hxhQIrWNG4)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1hxhQIrWNG4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/1hxhQIrWNG4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> https://www.youtube.com/embed/1hxhQIrWNG4
 
 [New York transit agency launches UV light pilot program in effort to kill Covid-19](https://edition.cnn.com/2020/05/20/us/new-york-transit-uv-light-trnd/index.html)
 

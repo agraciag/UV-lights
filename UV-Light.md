@@ -1,7 +1,7 @@
 [Posición de la CIE respecto a la radiación ultravioleta (UV) para
 reducir el riesgo de transmisión del COVID-19](http://cie.co.at/files/CIE%20Position%20Statement%20-%20UV%20radiation%20(2020)_ES_0.pdf)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zYwjzjuWj0Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[](<iframe width="560" height="315" src="https://www.youtube.com/embed/zYwjzjuWj0Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 
 [Grupo Antolin trabaja para promover un ambiente saludable en el interior del vehículo](https://www.grupoantolin.com/es/grupo-antolin-trabaja-para-promover-un-ambiente-saludable-en-el-interior-del-vehiculo)

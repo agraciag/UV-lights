@@ -48,7 +48,6 @@ La empresa innovadora Setga, con sede en Pontevedra, es una de las firmas que es
 
 [COVID-19 Sterilizing Violeds Technology Succeed in Perfect Clean Washing with Removing Odors and Sterilizing ](http://www.seoulviosys.com/en/company/press/press-release/?idx=358)
 
-![Laundry](http://www.seoulviosys.com/upload/seditor/[Photo]%20SVC_Violeds.png)
 
 > ANSAN, South Korea – Seoul Viosys(KOSDAQ: 092190), the world’s first compound semiconductor for short wavelength solutions provider, announced that products with Violeds technology for perfectly clean laundry have been mass-produced and supplied to both Chinese two major makers, Hisense and Haier, which lead household washing machine products.
 
